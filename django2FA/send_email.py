@@ -29,7 +29,7 @@ def send_email(user_code, email):
 #def send_sms(user_code, phone_number):
 #	message = client.messages.create(
 #		body=f"Hi! Your user and verification code is {user_code}",
-#		from_='+33624126070',
+#		from_='+33620216376',
 #		to=phone_number
 #	)
 #	print(message.sid)
